@@ -1,12 +1,12 @@
 ---
-title: "CopilotKit 完成 2700 万美元 A 轮融资：所有 UI 都将变成 AI"
+title: "CopilotKit 完成 A 轮融资：所有的 UI 都将变成 AI"
 date: 2026-05-09
 source: "https://mp.weixin.qq.com/s/umtJuI9ANRsy8YFAIFBUbQ"
-tags: [AI Agent, CopilotKit, AG-UI, 交互设计, 融资]
+tags: [AI Agent, CopilotKit, AG-UI, 交互设计，融资]
 type: link
 ---
 
-# CopilotKit 完成 2700 万美元 A 轮融资：所有 UI 都将变成 AI
+# CopilotKit 完成 A 轮融资：所有的 UI 都将变成 AI
 
 你有没有意识到，我们现在用软件的方式，其实还停留在上个时代？打开一个企业系统，你需要找到正确的菜单，点击正确的按钮，填写正确的表单，然后等待结果。整个过程里，你其实是在配合软件工作，而不是软件在帮你工作。
 
@@ -24,5 +24,5 @@ CopilotKit 的创始人 Atai Barkai 说了一句话，我觉得非常准确：
 
 ---
 
-*来源：微信公众号 | 存入时间：2026-05-09*
+*来源：微信公众号 | 存入时间：2026-05-09 13:10*
 *原始链接：https://mp.weixin.qq.com/s/umtJuI9ANRsy8YFAIFBUbQ*
